@@ -64,6 +64,7 @@ characterization. The nearest — Proxima Centauri b — is just 1.3 parsecs (4.
 ---
 
 ## Repository Structure
+```
 NASA_Exoplanet_Explorer/
 
 ├── NASA_Exoplanet_Explorer.ipynb    # Full analysis notebook
@@ -77,7 +78,7 @@ NASA_Exoplanet_Explorer/
 ├── habitable_zone_candidates.png    # Query 4 visualization
 
 └── README.md                        # This file
-
+```
 ---
 
 ## How to Run
