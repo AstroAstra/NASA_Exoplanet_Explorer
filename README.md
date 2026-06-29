@@ -15,7 +15,7 @@
 This project explores the NASA Exoplanet Archive's confirmed planets table using Python and SQL. 
 Starting from a raw CSV of 6,298 confirmed exoplanets across 84 measured variables, the analysis 
 builds a SQLite database, runs structured queries, and produces professional visualizations that 
-tell the story of exoplanet science — from the first two planets discovered in 1992 to the 
+tell the story of exoplanet science - from the first two planets discovered in 1992 to the 
 JWST era of atmospheric characterization beginning today.
 
 The analysis covers four key questions in exoplanet demographics:
@@ -39,11 +39,11 @@ transformed the confirmed planet catalog overnight.
 
 **Size distribution:** Sub-Neptunes (2–4 Earth radii) are the most common confirmed planet type 
 at 33.2%, followed by Jupiter-sized planets at 28.8%. Earth-sized planets account for only 9.2% 
-of confirmed planets — a detection bias, not a reflection of their true abundance in the galaxy.
+of confirmed planets - a detection bias, not a reflection of their true abundance in the galaxy.
 
 **Habitable zone candidates:** 58 confirmed planets meet conservative habitable zone and rocky 
 planet criteria. Of these, 27 are within 15 parsecs of Earth and accessible to JWST atmospheric 
-characterization. The nearest — Proxima Centauri b — is just 1.3 parsecs (4.2 light years) away.
+characterization. The nearest (Proxima Centauri b) is just 1.3 parsecs (4.2 light years) away.
 
 ---
 
@@ -102,7 +102,7 @@ Download the data CSV from the NASA Exoplanet Archive link above.
 - Dataset: NASA Exoplanet Archive Planetary Systems Composite Parameters table
 - Retrieved: June 2026
 - 6,298 confirmed planets, 84 measured variables
-- Data completeness varies by column — see notebook for full quality assessment
+- Data completeness varies by column - see notebook for full quality assessment
 - Detection bias significantly affects size and type distributions
 
 ---
